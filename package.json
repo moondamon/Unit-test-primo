@@ -1,0 +1,30 @@
+{
+  "name": "implement-merge-primo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest --verbose",
+    "start": "ts-node ./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moondamon/Unit-test-primo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moondamon/Unit-test-primo/issues"
+  },
+  "homepage": "https://github.com/moondamon/Unit-test-primo#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.4",
+    "chai": "^4.3.8",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "mocha": "^10.2.0"
+  }
+}
